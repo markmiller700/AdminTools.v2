@@ -6,8 +6,8 @@ admin tools is script python for admins he can add and delet users and sent a em
 1- first go to code of python and add your gmail and your gmail app key 
 2- after that go to your terminal and run the tools by : python tools.py 
 3- if the tools ask you enter name and password do :
-                 Admin username :  admin
-                 Admin password : 12345
+*Admin username :  admin
+*Admin password : 12345
 3- now you see all op of tools 
 
 if you won add lot of gmails :
