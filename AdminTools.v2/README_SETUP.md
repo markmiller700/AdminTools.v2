@@ -1,11 +1,11 @@
 # HTML Email Integration - Setup Guide
 
-## 📁 Files Included
+##  Files Included
 
 1. **admin_tool_with_html.py** - Your modified Python script with HTML email support
 2. **email_template.html** - Professional HTML email template
 
-## 🚀 Setup Instructions
+##  Setup Instructions
 
 ### Step 1: Place Files in Same Directory
 
@@ -43,15 +43,15 @@ APP_PASSWORD = "your app password"      # Replace with your Gmail App Password
 python admin_tool_with_html.py
 ```
 
-## 🎨 What Changed?
+##  What Changed?
 
 ### HTML Email Features
-- ✅ Professional gradient header with ADMIN branding
-- ✅ Clean, modern layout with proper spacing
-- ✅ Responsive design (works on mobile)
-- ✅ Personalized greeting with username
-- ✅ Call-to-action button
-- ✅ Professional footer
+-  Professional gradient header with ADMIN branding
+-  Clean, modern layout with proper spacing
+-  Responsive design (works on mobile)
+-  Personalized greeting with username
+-  Call-to-action button
+-  Professional footer
 
 ### Script Improvements
 1. **Automatic HTML template loading** - The script automatically loads `email_template.html`
@@ -59,7 +59,7 @@ python admin_tool_with_html.py
 3. **Fallback system** - If HTML template is missing, uses plain text
 4. **All functions updated** - Options 5, 6, 7, and 8 now send HTML emails
 
-## 📧 How It Works
+##  How It Works
 
 The script now:
 1. Loads the HTML template when starting
@@ -90,7 +90,7 @@ Add this in the header section:
 <img src="https://your-site.com/logo.png" alt="Logo" style="height: 50px;">
 ```
 
-## 📝 Template Placeholders
+##  Template Placeholders
 
 Current placeholder:
 - `{{username}}` - Replaced with recipient's username
@@ -99,21 +99,21 @@ You can add more placeholders by:
 1. Adding them in the HTML: `{{custom_field}}`
 2. Updating the `build_welcome_message()` function to replace them
 
-## ⚠️ Important Notes
+##  Important Notes
 
 - The HTML template file **must** be in the same directory as the script
 - If template is missing, script automatically falls back to plain text
 - Option 9 (custom messages) still uses plain text (as intended)
 - All HTML emails include a plain text alternative for compatibility
 
-## 🎯 Testing
+##  Testing
 
 To test the HTML email:
 1. Add a test user (option 1)
 2. Send email to ONE user (option 5)
 3. Check your inbox for the beautiful HTML email!
 
-## 💡 Tips
+##  Tips
 
 - Test with one email first before sending to 100 users
 - Keep Gmail's sending limits in mind (500 emails/day)
