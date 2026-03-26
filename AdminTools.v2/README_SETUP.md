@@ -67,7 +67,7 @@ The script now:
 3. Creates a multipart email with both HTML and plain text
 4. Sends beautiful HTML emails to your users
 
-## 🔧 Customizing the Template
+##  Customizing the Template
 
 You can edit `email_template.html` to change:
 - **Colors**: Change hex codes (e.g., `#dc2626` for red)
@@ -120,4 +120,4 @@ To test the HTML email:
 - The script includes automatic delays to avoid spam flags
 - HTML emails have better open rates than plain text
 
-Enjoy your professional email system! 🚀
+Enjoy your professional email system! 
