@@ -29,11 +29,13 @@ python admin_tool_with_html.py
 ```
 
 ### Step 3 : Login : 
+```bash
 -Admin username :  admin
 -Admin password : 12345
+```
 if you won add lot of gmails :
-### 1- go to users.csv 
-### 2- past your gmails on it.
+## 1- go to users.csv 
+## 2- past your gmails on it.
 
 if have problem on the tool or somthing eles contact me on : markmiller19087@gmail.com 
  
