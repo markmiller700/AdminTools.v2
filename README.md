@@ -1,7 +1,7 @@
 # admin-tools-
 Simple CLI admin tools is script python for admins he can add and delet users and sent a email or 100 email to user 
 
- ![Image Alt](https://raw.githubusercontent.com/markmiller700/AdminTools.v2/refs/heads/main/adminTool1.png)
+ ![Image Alt](https://raw.githubusercontent.com/markmiller700/AdminTools.v2/refs/heads/main/adminTol2.png)
 
 ### Step 1: Configure Your Email Credentials
 
