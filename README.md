@@ -8,7 +8,7 @@ Simple CLI admin tools is script python for admins he can add and delet users an
 Open `admin_tool_with_html.py` and update these lines (around line 22-25):
 
 ```python
-SENDER_EMAIL = "your-email@gmail.com"  # Replace with your Gmai
+SENDER_EMAIL = "your-email@gmail.com"  # Replace with your Gmail
 APP_PASSWORD = "your app password"      # Replace with your Gmail App Password
 ```
 
