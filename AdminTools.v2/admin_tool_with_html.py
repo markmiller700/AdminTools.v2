@@ -258,7 +258,7 @@ def print_banner():
     print(RED + r'    / _ \  | | | | |\/| || ||  \| |' + RESET)
     print(RED + r'   / ___ \ | |_| | |  | || || |\  |' + RESET)
     print(RED + r'  /_/   \_\|____/|_|  |_|___|_| \_|' + RESET)
-    print(RED + "------------ ADMIN TOOL ------------" + RESET)
+    print(RED + "------- ADMIN TOOL --MADE BY : YOUNES ZAHRAOUI--------" + RESET)
     print()
 
 def show_menu():
